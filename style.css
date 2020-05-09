@@ -1,0 +1,135 @@
+.div1{
+    background-color: rgb(59, 59, 185);
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+li{
+    display: inline;
+}
+.list
+{
+    color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.div2{
+    background-color:rgb(203, 209, 237);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.news{
+    background-color: rgb(59, 59, 185);
+}
+.intro{
+    text-align: center;
+    padding-left:300px;
+    padding-right: 300px;
+}
+.div5{
+    background-color: blue;
+    color: white;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 50px;
+    height: 150px;
+   
+}
+.t1{
+    color: white;
+    text-align: center;
+}
+b{
+    color: limegreen;
+}
+.t2{
+    font-size: 35px;
+}
+.heading{
+    color: blue;
+}
+.heading2{
+    color: green;
+}
+.div6{
+    text-align: center;
+    background-color:rgb(249, 250, 252);
+}
+.image1{
+    width: 50px;
+    height: 45px;
+}
+
+.div7{
+    background-color:white;
+    border-spacing: 5px 5px;
+    width: 220px;
+    height: 130px;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 55px;
+    padding-bottom: 55px;
+    margin: 10px 10px;
+    
+
+}
+.t3{
+    display: flex;
+    justify-content: center;
+}
+.heading4{
+    color: darkblue;
+    font-size: 20px;
+}
+.div8{
+    display: flex;
+    justify-content: center;
+    
+}
+.heading5{
+    color: darkblue;
+    font-size: 20px;
+}
+.div9{
+    background-color:lightgray;
+    border-spacing: 5px 5px;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    padding: 15px 15px;
+  
+    margin: 10px 10px;
+}
+.div10{
+    /* display: flex;
+    justify-content: center;    */
+    text-align: center;
+    
+}
+.image2{
+    width: 50px;
+    height: 45px;
+
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.t4{
+    color: white;
+}
+.div11{
+    background-color: rgb(95, 95, 95);
+ 
+    text-align: center;
+}
+.contact{
+    text-align: left;
+    color: white;
+}
+.links{
+    color: black;
+}
